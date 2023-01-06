@@ -2,40 +2,26 @@
 
 -------------------
 
-## Part 1 (Development Basics):
-- Python virtual environment (pipenv, virtualenv, pyenv)
+## Fontend Tools
+- HTML, CSS, Bootstrap, JQuery and Javascript
 
-- Effective Python Book
-
-- VCS (Version Control System):
-  Git and Github (commits, branches, merges, conflicts, stashing, pull requests)
-  
+## Python Programming
+- Python virtual environment (pipenv, virtualenv, pyenv) 
 - IDE/Text Editor:
- Pycharm Pro or VS Code (shortcuts, formatting, integrations, plugins)
-  
-- Networks Basics:
- IPs, Ports, HTTP/HTTPS, FTP, Webservers, NATs, SSH, ...etc
-  
-- Linux
+    Pycharm Pro or VS Code (shortcuts, formatting, integrations, plugins)
 
-- Using The Terminal/CMD/PowerShell
-
-# Part 2 (Databases)
+# Databases
 - RDB (PostgreSQL, MySQL/MariaDB, SQLite)
 - NoSQL (MongoDB, Redis)
 - ORM (Object-Relational Mapper)
   
-## Part 3 (Software Engineering)
+## Software Enginnering
 - Conventional Commits
-- Trunk-based Development (https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development)
-- Change Logs
-- README
-- Documentation
+- Trunk-based Development
 - Clean Code
 - Design Principles (SOLID, KISS, YAGNI, ...etc)
 - Design Patterns
-- Testing (Unit, Integration, Functional)
-- Pytest
+- Testing (Unit, Integration, Functional, Pytest)
 - TDD (Test-Driven Development)
 - BDD (Behavior-Driven Development)
 - DDD (Domain-Driven Design)
@@ -44,16 +30,17 @@
 - pre-commit hooks (black, flake) 
 - .env files and environmental variables 
 - Logs, and Logging (For Example Sentry)
-
-
-## Part 4 (Web)
-- HTML, CSS, SASS, Javascript, Bootstrap and JQuery
+- VCS (Version Control System):
+    Git and Github (commits, branches, merges, conflicts, stashing, pull requests)
 - REST API
 - Swagger
 - ngrok
 - GraphQL
 - Browser dev tools (elements tab, console, network tab, performance) 
-
+- Networks Basics:
+    IPs, Ports, HTTP/HTTPS, FTP, Webservers, NATs, SSH, ...etc
+- Linux
+- Using The Terminal/CMD/PowerShell
 
 ## Part 5 (Theory and Tools):
 - Security (XSS, SQL Injection, CSRF, CORS, ...etc)
