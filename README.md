@@ -6,9 +6,12 @@
 - HTML, CSS, Bootstrap, JQuery and Javascript
 
 ## Python Programming
-- Python virtual environment (pipenv, virtualenv, pyenv) 
+- Python virtual environment (pipenv, virtualenv, Virtualenvwrapper, pyenv) 
 - IDE/Text Editor:
-    Pycharm Pro or VS Code (shortcuts, formatting, integrations, plugins)
+      Pycharm Pro or VS Code (shortcuts, formatting, integrations, plugins)
+- Basic Of Python
+- Function Programming
+- Object Oriented Programming    
 
 # Databases
 - RDB (PostgreSQL, MySQL/MariaDB, SQLite)
